@@ -1,10 +1,10 @@
-.git
-.vscode
-.dockerignore
-.gitignore
-config
-build
-node_modules
-docker-compose.yaml
-Dockerfile
-README.md
+#.git
+# .vscode
+# .dockerignore
+# .gitignore
+# config
+# build
+# node_modules
+# docker-compose.yaml
+# Dockerfile
+# README.md
